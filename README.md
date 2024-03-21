@@ -1,3 +1,5 @@
+![image](https://github.com/TetianaShchudla/CellphonesRecomendations/blob/main/image.png)
+
 ## Hello!
 
 In this project I am using _Jupyter Notebook_ for extracting needed information of a desired guitar on the Amazon Website.
