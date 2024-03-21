@@ -1,4 +1,4 @@
-![image](https://github.com/TetianaShchudla/CellphonesRecomendations/blob/main/image.png)
+![image](https://github.com/TetianaShchudla/WebScrapingAmazonGuitar/blob/main/guitar%20image.png)
 
 ## Hello!
 
