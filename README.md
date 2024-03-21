@@ -2,7 +2,7 @@
 
 ## Hello!
 
-In this project I am using _Jupyter Notebook_ for extracting needed information of a desired guitar on the Amazon Website.
+In this project I am using _Jupyter Notebook_ for extracting needed information of a desired guitar on the _Amazon Website_.
 These lines of codes can help to check the guitar details and its updates in different criterias, including changes in price.
 
 Link to the product: 
